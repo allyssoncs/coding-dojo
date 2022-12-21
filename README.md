@@ -2,11 +2,7 @@
          Junto Coding Dojo
 </p>
 
-<p> 
-<span>Allysson</span>
-<span>Jean Lucas</span>
-<span>Kevin</span>
-</p>
+<p>Allysson, Jean Lucas, Kevin </p>
 
 ### Modalidade Dojo Randori
 
