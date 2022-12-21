@@ -1,11 +1,15 @@
 import React from 'react';
-import classes from './App.module.scss';
+import './App.css';
+
+import Search from './components/Search/Search';
 
 function App() {
   return (
-    <div className={classes.changecolor}>
-      Hello Dojo!
-    </div>
+    <main className='bg-zinc-900 h-screen'>
+      <div className='max-w-6xl m-auto'>
+        <Search />
+      </div>
+    </main>
   );
 }
 
